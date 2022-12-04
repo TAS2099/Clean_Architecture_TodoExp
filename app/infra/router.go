@@ -3,7 +3,7 @@ package infra
 import (
 	"net/http"
 
-	controller "github.com/TAS2099/clean_architecture_todoexp/app/interfaces/controller"
+	"github.com/TAS2099/clean_architecture_todoexp/app/interfaces/controller"
 	"github.com/labstack/echo"
 	"gorm.io/gorm"
 )
